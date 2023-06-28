@@ -1,6 +1,6 @@
 
 
-# Guide to Created Android App - Front End/Client App
+# Guide to Created Android App - Structure
 This guide will help understand on how to organize your projects , especially a project that involves a Many Modules that must 
 interact to bring the final Output. 
 
@@ -117,6 +117,6 @@ Here are some of the designs.
 
 ![image](https://github.com/modcomlearning/Guide/assets/66998462/05e0d546-9514-4f80-904a-ae5af59ec0e7)
 
-Also check this link;
-https://www.youtube.com/@UiLover
+![image](https://github.com/modcomlearning/Guide/assets/66998462/25e79179-5154-4344-8986-ce0ab7458112)
 
+Check https://dribbble.com/  for Design Illustrations and inspirations.
