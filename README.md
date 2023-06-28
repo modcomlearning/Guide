@@ -9,7 +9,7 @@ Before Proceeding, we recomend you go through below Link.
 
 https://github.com/codepath/android_guides/wiki/Organizing-your-Source-Files
 
-Now, Lets Look at different components that you may require.
+Now, Lets Look at different components that you may require in structuring your app.
 
 **Activities** -  An activity is one screen of an app. In that way the activity is very similar to a window in the Windows operating system. The most specific block of the user interface is the activity. An Android app contains activities, meaning one or more screens. Examples: Login screen, sign up screen, and home screen.
 
@@ -62,9 +62,15 @@ https://kotlinlang.org/docs/interfaces.html
 
 https://www.geeksforgeeks.org/how-to-create-interfaces-in-android-studio/
 
-**Constants** - Kotlin constants are used to define a variable that has a constant value. The const keyword is used to declare properties that are immutable in nature, i.e. read-only properties. i.e radius of the earth, PI, any contants in the application.
+**Constants** - Kotlin constants are used to define a variable that has a constant value. The const keyword is used to declare properties that are immutable in nature, i.e. read-only properties. i.e radius of the earth, PI, any constants in the application.
+
+All above components will have their own package/folder.
+Below is a Basic android App structure.
+
+![image](https://github.com/modcomlearning/Guide/assets/66998462/117665b1-d233-44e6-ae54-aedda69fdd19)
 
 
+Below is an advanced app structure.
 
 
 
