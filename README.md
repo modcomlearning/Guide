@@ -105,9 +105,18 @@ https://m2.material.io/components
 Here are some of the designs.
 ![image](https://github.com/modcomlearning/Guide/assets/66998462/36441d61-b123-4bfb-9042-079be7021075)
 
+![image](https://github.com/modcomlearning/Guide/assets/66998462/25edef9c-f032-4d43-bf62-7d1b6065413c)
 
+![image](https://github.com/modcomlearning/Guide/assets/66998462/6e0e4141-2fef-42a1-b195-f39180dacde0)
 
+![image](https://github.com/modcomlearning/Guide/assets/66998462/73fe881c-cbf3-4cd5-a5cc-b8449c1659be)
 
+![image](https://github.com/modcomlearning/Guide/assets/66998462/748c14b1-17a9-4da2-8b5f-b2aa85cd3a03)
 
+![image](https://github.com/modcomlearning/Guide/assets/66998462/d1351709-9d79-4daa-923b-e0d0f91a24ac)
 
+![image](https://github.com/modcomlearning/Guide/assets/66998462/05e0d546-9514-4f80-904a-ae5af59ec0e7)
+
+Also check this link;
+https://www.youtube.com/@UiLover
 
