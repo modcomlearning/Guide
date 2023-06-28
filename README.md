@@ -1,6 +1,8 @@
 
 
-# Guide to Created Android App - Structure
+
+# Part1 :
+## Guide to Create Android App - Structure
 This guide will help understand on how to organize your projects , especially a project that involves a Many Modules that must 
 interact to bring the final Output. 
 
@@ -120,3 +122,4 @@ Here are some of the designs.
 ![image](https://github.com/modcomlearning/Guide/assets/66998462/25e79179-5154-4344-8986-ce0ab7458112)
 
 Check https://dribbble.com/  for Design Illustrations and inspirations.
+**End Part 1, Check Part 2**
