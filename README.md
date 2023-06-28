@@ -64,6 +64,9 @@ https://www.geeksforgeeks.org/how-to-create-interfaces-in-android-studio/
 
 **Constants** - Kotlin constants are used to define a variable that has a constant value. The const keyword is used to declare properties that are immutable in nature, i.e. read-only properties. i.e radius of the earth, PI, any constants in the application.
 
+Note: Developers can have different structures setup, this guide defines most common use case.
+
+
 All above components will have their own package/folder.
 Below is a Basic android App structure.
 
@@ -71,6 +74,9 @@ Below is a Basic android App structure.
 
 
 Below is an advanced app structure.
+Observe more packages added.(models, helpers etc)
+
+![image](https://github.com/modcomlearning/Guide/assets/66998462/7f4603c4-547c-4ffd-943c-2b50e7998090)
 
 
 
