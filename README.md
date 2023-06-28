@@ -1,4 +1,6 @@
-![image](https://github.com/modcomlearning/Guide/assets/66998462/538254d0-0ce1-4cd7-9f8b-da5326842fdf)![image](https://github.com/modcomlearning/Guide/assets/66998462/60dd3961-50e0-4674-a662-1fea568ae539)# Guide to Created Android App - Front End/Client App
+
+
+# Guide to Created Android App - Front End/Client App
 This guide will help understand on how to organize your projects , especially a project that involves a Many Modules that must 
 interact to bring the final Output. 
 
@@ -101,8 +103,8 @@ https://m2.material.io/design/introduction#components
 https://m2.material.io/components
 
 Here are some of the designs.
+![image](https://github.com/modcomlearning/Guide/assets/66998462/36441d61-b123-4bfb-9042-079be7021075)
 
-mtp://INFINIX_MOBILITY_LIMITED_Infinix_HOT_10_Lite_06076370CO136963/Internal%20shared%20storage/Pictures/Screenshot/Screenshot_20230628-230138.png
 
 
 
