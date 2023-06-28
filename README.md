@@ -1,4 +1,4 @@
-# Guide to Created Android App - Front End/Client App
+![image](https://github.com/modcomlearning/Guide/assets/66998462/60dd3961-50e0-4674-a662-1fea568ae539)# Guide to Created Android App - Front End/Client App
 This guide will help understand on how to organize your projects , especially a project that involves a Many Modules that must 
 interact to bring the final Output. 
 
@@ -80,7 +80,28 @@ Observe more packages added.(models, helpers etc)
 
 
 # Android XML
+Using Android's XML vocabulary, you can quickly design UI layouts and the screen elements they contain, in the same way you create web pages in HTML
 
+**Views and View Groups.**
+View is a simple rectangle box that responds to the user's actions. ViewGroup is a collection of Views(TextView, EditText, ListView, etc..), somewhat like a container. A View object is a component of the user interface (UI) like a button or a text box, and it's also called a widget.
+
+Check link below.
+https://developer.android.com/codelabs/basic-android-kotlin-training-xml-layouts#0
+
+Check below link for Colors.
+https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors
+
+Material Design
+Material Design is an Android-oriented design language created by Google, supporting onscreen touch experiences.
+Material is a design system created by Google to help teams build high-quality digital experiences for applications.
+
+Check below links;
+https://m2.material.io/design/introduction#components
+
+https://m2.material.io/components
+
+Here are some of the designs.
+mtp://INFINIX_MOBILITY_LIMITED_Infinix_HOT_10_Lite_06076370CO136963/Internal%20shared%20storage/Pictures/Screenshot/Screenshot_20230628-230138.png
 
 
 
