@@ -122,4 +122,4 @@ Here are some of the designs.
 ![image](https://github.com/modcomlearning/Guide/assets/66998462/25e79179-5154-4344-8986-ce0ab7458112)
 
 Check https://dribbble.com/  for Design Illustrations and inspirations.
-**End Part 1, Check Part 2**
+**End Part 1, Check Part 2 -  Createing MediLab App**
